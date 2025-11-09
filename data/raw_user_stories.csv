@@ -1,0 +1,31 @@
+id	story
+1	As a student, I want to log into the portal so I can access my assignments.
+2	As a teacher, I want to upload lecture notes so students can download them easily.
+3	As an admin, I want to manage user accounts so I can maintain security.
+4	As a student, I want to track my project progress so I can meet deadlines.
+5	As a mentor, I want to review project submissions so I can give feedback.
+6	As a student, I want to submit my final project report online.
+7	As an admin, I want to send notifications to all users for important updates.
+8	As a teacher, I want to create quizzes so I can assess student learning.
+9	As a student, I want to view quiz results instantly after submission.
+10	As a teacher, I want to schedule presentations for project evaluations.
+11	As a student, I want to collaborate with teammates through a group chat.
+12	As a mentor, I want to assign project grades directly in the system.
+13	As a student, I want to update my profile with my academic details.
+14	As an admin, I want to generate overall performance reports of students.
+15	As a teacher, I want to track attendance during project review sessions.
+16	As a student, I want to download project resources shared by the faculty.
+17	As a mentor, I want to comment on project tasks for improvement.
+18	As an admin, I want to manage access control for students and faculty.
+19	As a student, I want to get deadline reminders for submissions.
+20	As a teacher, I want to mark late submissions in the portal.
+21	As a student, I want to receive feedback notifications automatically.
+22	As a mentor, I want to filter student submissions by project title.
+23	As an admin, I want to back up all project data securely.
+24	As a teacher, I want to review group project progress weekly.
+25	As a student, I want to upload multiple files in a single submission.
+26	As a mentor, I want to export project summaries in PDF format.
+27	As an admin, I want to track system usage for analytics.
+28	As a teacher, I want to verify originality of student projects.
+29	As a student, I want to share my project demo video.
+30	As a mentor, I want to approve final project completion for evaluation.
