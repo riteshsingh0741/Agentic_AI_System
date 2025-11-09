@@ -1,0 +1,3 @@
+average_raw_score: 66.63
+average_refined_score: 72.33
+improvement_percent: 8.55
