@@ -22,23 +22,24 @@ This project works **offline (without OpenAI API)** by simulating AI behavior lo
 ## 🗂️ Project Structure
 
 Agentic_AI_System/
+│
 ├── data/
-│ ├── raw_user_stories.csv               # Input: contains 'id' and 'story' columns
-│ └── refined_user_stories/              # Output: contains AI-refined/improved user stories after processing
+│   ├── raw_user_stories.csv       # Input: contains 'id' and 'story' columns
+│   └── refined_user_stories/      # Output: contains AI-refined/improved user stories after processing
+│
 ├── reports/
-│ ├── metrics_report.txt                 # Output: improvement metrics
-│ └── story_scores.csv (optional)
+│   ├── metrics_report.txt         # Output: improvement metrics
+│   └── story_scores.csv (optional)
+│
 ├── src/
-│ ├── agents.py                          # PlannerAgent & CriticAgent classes
-│ ├── evaluator.py                       # Computes improvement metrics
-│ └── utils.py                           # Handles CSV and directory management
-├── main.py                              # Runs the entire pipeline
-├── visualize_results.py                 # Generates bar chart visualization
-├── requirements.txt                     # Dependencies list
-└── README.md                            # Documentation
-
----
-
+│   ├── agents.py                  # PlannerAgent & CriticAgent classes
+│   ├── evaluator.py               # Computes improvement metrics
+│   └── utils.py                   # Handles CSV and directory management
+│
+├── main.py                        # Runs the entire pipeline
+├── visualize_results.py           # Generates bar chart visualization
+├── requirements.txt               # Dependencies list
+└── README.md                      # Documentation
 ## 🪜 Step-by-Step Setup Summary
 
 | Step | Action | Command |
