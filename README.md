@@ -40,12 +40,15 @@ Agentic_AI_System/
 ├── visualize_results.py           # Generates bar chart visualization
 ├── requirements.txt               # Dependencies list
 └── README.md                      # Documentation
+
+---
+
 ## 🪜 Step-by-Step Setup Summary
 
 | Step | Action | Command |
 |------|--------|---------|
 | 🏗️ 1 | Create project folders | `mkdir -p Agentic_AI_System/{data,reports,src}` |
-| 📄 2 | Add your `.py` files (`main.py`, `agents.py`, etc.) | 
+| 📄 2 | Add your `.py` files (`main.py`, `agents.py`, etc.) | copy-paste from your existing setup |
 | 🧾 3 | Create `requirements.txt` | copy above |
 | 📘 4 | Create `README.md` | copy above |
 | 🧩 5 | Install packages | `pip install -r requirements.txt` |
@@ -76,3 +79,8 @@ The project requires the following Python packages (listed in `requirements.txt`
 
 ## 🖼️ Visualization
 Use `visualize_results.py` to generate bar charts showing the **average improvement** of user stories after AI refinement.
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
