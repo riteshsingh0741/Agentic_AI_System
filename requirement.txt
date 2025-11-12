@@ -1,4 +1,0 @@
-pandas
-matplotlib
-tqdm
-python-dotenv
