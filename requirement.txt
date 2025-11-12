@@ -1,0 +1,18 @@
+# ==============================
+# 🧠 Agentic AI System
+# Offline Simulation Dependencies
+# ==============================
+
+# Core libraries (using >= to avoid build-from-source errors)
+pandas>=2.2.2
+matplotlib>=3.9.2
+numpy>=1.26.4
+
+# Optional utilities (safe to include)
+tqdm>=4.66.4       # For progress bars
+regex>=2024.9.11   # For advanced text handling
+jupyter>=1.1.1     # For running in notebooks (Binder / local)
+
+# Compatibility helpers (prevent Meson/GCC errors)
+setuptools>=68.0.0
+wheel>=0.42.0
